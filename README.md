@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Backend Development(MERN) and NextJs**
 
-- 👨‍💻 All of my projects are available at [ebisakebede.site](ebisakebede.site)
+- 👨‍💻 All of my projects are available at [ebisakebede.site](https://ebisakebede.site)
 
 - 📫 How to reach me **kebedebisa1@gmail.com**
 
