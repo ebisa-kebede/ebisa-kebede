@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [Dream Techs LLC](https://dreamtechs.io)
 
-- 🌱 I’m currently learning **Backend Development(MERN) and NextJs**
+- 🌱 I’m currently learning **Backend Development(Bun) and NextJs**
 
 - 👨‍💻 All of my projects are available at [ebisakebede.site](https://ebisakebede.site)
 
