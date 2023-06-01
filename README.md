@@ -7,9 +7,9 @@
 
 - 🌱 I’m currently learning **Backend Development(Bun) and NextJs**
 
-- 👨‍💻 All of my projects are available at [ebisakebede.site](https://ebisakebede.site)
+- 👨‍💻 All of our team projects are available at [Dreamtech.et](https://dreamtech.et/portfolio)
 
-- 📫 How to reach me **kebedebisa1@gmail.com**
+- 📫 How to reach me **dreamtechplc@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
