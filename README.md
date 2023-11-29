@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ebisa-kebede&label=Profile%20views&color=0e75b6&style=flat" alt="ebisa-kebede" /> </p>
 
-- 🔭 I’m currently working on [Dream Techs LLC](https://dreamtechs.io)
+- 🔭 I’m currently working on [Dream Techs LLC](https://dreamtech.et)
 
 - 🌱 I’m currently learning **Backend Development(Bun) and NextJs**
 
@@ -13,11 +13,11 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/ebisa_kebede" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ebisa_kebede" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/ebisa-kebede-10a26b196" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ebisa-kebede-10a26b196" height="30" width="40" /></a>
-<a href="https://fb.com/100080531267690" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="100080531267690" height="30" width="40" /></a>
-<a href="https://instagram.com/eebbookebede" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="eebbookebede" height="30" width="40" /></a>
-<a href="https://www.behance.net/ebisakebede" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="ebisakebede" height="30" width="40" /></a>
+<a href="https://twitter.com/dreamtechplc" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ebisa_kebede" height="30" width="40" /></a>
+<a href="https://linkedin.com/company/dreamtechplc" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ebisa-kebede-10a26b196" height="30" width="40" /></a>
+<a href="https://fb.com/dreamtechplc" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="100080531267690" height="30" width="40" /></a>
+<a href="https://instagram.com/dreamtechplc" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="eebbookebede" height="30" width="40" /></a>
+<a href="https://www.behance.net/dreamtechplc" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="ebisakebede" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
